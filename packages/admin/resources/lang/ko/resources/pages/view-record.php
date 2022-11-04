@@ -6,4 +6,11 @@ return [
 
     'breadcrumb' => '보기',
 
+    'form' => [
+
+        'tab' => [
+            'label' => 'View',
+        ],
+
+    ],
 ];
